@@ -1,4 +1,4 @@
-# ?/938
+# 1507/938
 # 10:49/12:17
 from sys import stdin
 from functools import reduce
